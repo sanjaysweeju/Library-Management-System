@@ -1,0 +1,10 @@
+1|The Guide|R.K. Narayan|Indian Thought Publications|1958|978-81-7223-004-2|1  
+2|A Suitable Boy|Vikram Seth|HarperCollins|1993|978-0-06-078652-6|1  
+3|Midnight's Children|Salman Rushdie|Jonathan Cape|1981|978-0-224-01876-9|1  
+4|The White Tiger|Aravind Adiga|HarperCollins|2008|978-0-06-153793-5|1  
+5|Train to Pakistan|Khushwant Singh|Ravi Dayal Publisher|1956|978-0-14-306588-3|1  
+6|Gitanjali|Rabindranath Tagore|Macmillan|1910|978-81-7167-450-2|1  
+7|The God of Small Things|Arundhati Roy|IndiaInk|1997|978-0-06-097749-8|1  
+8|Immortals of Meluha|Amish Tripathi|Westland|2010|978-93-80658-74-2|1  
+9|I Too Had a Love Story|Ravinder Singh|Shristi Publishers|2008|978-81-88521-75-6|1  
+10|The Palace of Illusions|Chitra Banerjee Divakaruni|Doubleday|2008|978-0-385-61230-7|1  

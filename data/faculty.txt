@@ -1,0 +1,12 @@
+201|Prof. Indranil Saha|isaha12|Computer Science
+202|Prof. Debapriya Rao|deba12|Computer Science
+203|Prof. Anil Seth|seth12|Computer Science
+204|Prof. Rajesh M Hegde|hegde12|Electrical
+205|Prof. Koteshwar Rao|rao12|Electrical
+206|Prof. Sounak Thakur|sthakur12|Economics
+207|Prof. Shikha Dixit|shikha12|Psychology
+208|Prof. Ishwar Cukkemane|ishwar12|Earth Science
+209|Prof. Imon Mondal|imon12|Electrical
+210|Prof. Arnab Ghosh|arnab12|Chemmical
+211|Test Faculty 1|tfac123|Physics
+212|Test Faculty 2|tfac456|Chemistry

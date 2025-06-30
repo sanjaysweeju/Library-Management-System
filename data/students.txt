@@ -1,0 +1,12 @@
+101|Sanjay Raghav|sanjayra23|Computer Science
+102|Prem Santhosh|prem23|Computer Science
+103|Soma Koushik|soma23|Computer Science
+104|Rajkumar Vooba|raj23|Electrical
+105|Daksh Shettar|dak23|Physics
+106|Akshit Gupta|akshit23|Electrical
+107|Vibhanshu Meena|vibh23|Chemical
+108|Anirudh Srivatsav|ani23|Computer Science
+109|Voora Rakesh|rak23|Computer Science
+110|Aman Dixit|aman23|Material Science
+111|Test Student 1|test123|Computer Science
+112|Test Student 2|test456|Physics 
